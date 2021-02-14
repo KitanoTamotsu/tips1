@@ -11,8 +11,10 @@
 　2.右クリック（コンテキストメニュー）→ export...
   （もしくは右上のエキスポートアイコンをクリック）
 
-参考：
-  [Alfredダウンロードサイト](https://www.alfredapp.com)
-  [Alfredヘルプ](https://www.alfredapp.com/help/workflows/advanced/sharing-workflows/)
 </pre>
+参考：
+
+  [Alfredダウンロードサイト](https://www.alfredapp.com)
+  
+  [Alfredヘルプ](https://www.alfredapp.com/help/workflows/advanced/sharing-workflows/)
 
