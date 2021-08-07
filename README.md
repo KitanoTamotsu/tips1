@@ -17,5 +17,5 @@ Tips1.alfredworkflowファイルの作成方法
   [Alfredダウンロードサイト](https://www.alfredapp.com)
 <br>  
   [Alfredヘルプ](https://www.alfredapp.com/help/workflows/advanced/sharing-workflows/)
-<br>
+<br><br><br>
 [トップページに戻る](https://kitanotamotsu.github.io/)
